@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.contain_all_buttons_div_class{
+  width:100%;
+  margin:auto;
+  display:flex;
+  justify-content: space-evenly;
+}
+button{
+  width:15%;
+  min-height: 3vw;
+  cursor:pointer;
+}
